@@ -81,8 +81,8 @@
 <img width="4112" height="3484" alt="image" src="https://github.com/user-attachments/assets/7a1f6949-a296-4a98-8700-d2dab57968d8" />
 
 ### Схема данных
+<img width="1480" height="1377" alt="Untitled (1)" src="https://github.com/user-attachments/assets/9eab10ea-f3b0-4d14-bb70-6a9ba0b6b7c3" />
 
-Описание отношений и структур данных, используемых в ПС. Также представить скрипт (программный код), который необходим для генерации БД
 
 ---
 
