@@ -41,14 +41,18 @@
 	1. [UML-диаграммы](#UML-диаграммы)
 Use-case диаграмма
 <img width="1069" height="1022" alt="Use case drawio" src="https://github.com/user-attachments/assets/543f887d-61e9-4440-8fc7-ae9e95426cb2" />
+
 Диаграмма последовательности
 <img width="1585" height="970" alt="Диаграмма последовательности" src="https://github.com/user-attachments/assets/fd19f437-d5a7-4a72-bd83-452ca3d42f2a" />
+
 Диаграмма деятельности
 <img width="908" height="1361" alt="диаграмма деятельности (1)" src="https://github.com/user-attachments/assets/6359f379-a2f9-4e48-98e8-6a2bffea3716" />
+
 Диаграмма компонентов
-<img width="2962" height="1095" alt="Диаграмма компонентов (1)" src="https://github.com/user-attachments/assets/7226d6a1-5680-4d5e-9983-97f1cf76dc4a" />
+<img width="2962" height="1095" alt="BPMN(as-is)-комп drawio" src="https://github.com/user-attachments/assets/cbdfa488-1101-4d46-aa94-60d4be27e113" />
+
 Диаграмма развертывания
-<img width="1501" height="479" alt="Диаграмма развертывания (1)" src="https://github.com/user-attachments/assets/5bfc45b9-6272-4312-853f-c9447030a7ea" />
+<img width="1501" height="479" alt="BPMN(as-is)-разверт drawio" src="https://github.com/user-attachments/assets/804760a7-f758-48e4-9dbb-d5b910973740" />
 
 	3. [Спецификация API](#Спецификация_API)
 	4. [Безопасность](#Безопасность)
